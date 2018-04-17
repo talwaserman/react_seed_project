@@ -76,9 +76,9 @@
     "url-loader": "1.0.1",
     "webpack-dev-server": "2.8.2"
   },
-  "name": "seed-react-stack-project",
+  "name": "seed-project",
   "version": "1.0.0",
-  "description": "A Seed project",
+  "description": "seed project for large scale apps",
   "main": "server.js",
   "repository": "",
   "author": "Tal Waserman <talwaserman@gmail.com>",
